@@ -1,4 +1,4 @@
-# EMP-Emoloyee-Management-System-
+# EMP- Emoloyee-Management-System
 ###
 <h2 align="left">A React Based web application to Manage and Organise tasks in an Organisation</p>
   
